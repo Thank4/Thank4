@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @Thank4
 - 👀 I’m interested in code
-- 🌱 I’m currently use php、java、kotlin、oc、swfit、golang
+- 🌱 I’m currently use golang、php、java、kotlin。
 
->  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thank4)
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thank4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
